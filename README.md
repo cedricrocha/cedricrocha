@@ -22,3 +22,6 @@ My name is Cedric and I'm a physics professor at ABC's Federal College.
   />
   <img src="https://github-readme-stats.vercel.app/api?username=cedricrocha&hide_border=true&theme=github_dark&hide=contribs&show_icons=true" />
 </picture>
+
+<!--Snake Eating GitHub Contributions 🐍 -->
+![snake gif](https://github.com/cedricrocha/cedricrocha/blob/output/github-contribution-grid-snake.gif)
